@@ -31,7 +31,7 @@
           "jquery": "1.2.0",
           "mongoose": "5.10.2",
           "nes": "1.2.0",
-          "serve": "1.2.0"
+          "serve": "14.2.0"
     },
 
     "devDependencies": {
@@ -54,7 +54,7 @@
           "jquery": "1.2.0",
           "mongoose": "5.10.2",
           "nes": "1.2.0",
-          "serve": "1.2.0"
+          "serve": "14.2.0"
     },
     "repository": {
         "type": "git",
